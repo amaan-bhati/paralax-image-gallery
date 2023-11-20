@@ -84,11 +84,7 @@ const Column = ({images, y}) => {
               alt='image'
               fill
             />
- <Image 
-              src={`/images/${src}`}
-              alt='image'
-              fill
-            />
+
           </div>
         })
       }
